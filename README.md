@@ -1,3 +1,8 @@
+#依赖
+
+npm install -g vue-cli
+
+
 # todo-list
 
 > A Vue.js project
