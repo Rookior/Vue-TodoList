@@ -1,4 +1,4 @@
-#依赖
+# 依赖
 
 npm install -g vue-cli
 
