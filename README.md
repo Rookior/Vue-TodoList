@@ -2,6 +2,11 @@
 
 npm install -g vue-cli
 
+# 关闭语法检测
+
+Vue-TodeList\congig\index.js
+
+module>useEslint:false
 
 # todo-list
 
